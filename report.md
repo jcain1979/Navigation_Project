@@ -4,9 +4,22 @@
 
 ## Learning Algorithim
 
-## Hyperparamters
+## Parameters
+
+BUFFER_SIZE = int(1e5)  # replay buffer size<br/>
+BATCH_SIZE = 64         # minibatch size<br/>
+GAMMA = 0.99            # discount factor<br/>
+TAU = 1e-3              # for soft update of target parameters<br/>
+LR = 5e-4               # learning rate<br/>
+UPDATE_EVERY = 4        # how often to update the network<br/>
 
 ## Neural Network Archetecture
+
+The Neural Network consists of three fully connected layers.<br/>  
+The first has an input size equal to the state size, output 64.<br/> 
+The second input 64, output 64.<br/> 
+The third input 64, output is the action_size<br/> 
+Relu activation functions and adam optimizer are used.
 
 ## Results
 
