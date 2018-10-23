@@ -35,4 +35,4 @@ Episode 2135	Average Score: 13.03<br/>
 Environment solved in 2035 episodes!	Average Score: 13.03<br/>
 
 ## Plot of Rewards
-![Plot of Rewards](link-to-image)
+![Plot of Rewards](plot.png)
