@@ -6,12 +6,12 @@
 
 ## Parameters
 
-BUFFER_SIZE = int(1e5)  # replay buffer size<br/>
-BATCH_SIZE = 64         # minibatch size<br/>
-GAMMA = 0.99            # discount factor<br/>
-TAU = 1e-3              # for soft update of target parameters<br/>
-LR = 5e-4               # learning rate<br/>
-UPDATE_EVERY = 4        # how often to update the network<br/>
+Replay buffer size:  int(1e5)<br/>
+Minibatch size:  64 <br/>      
+Discount Factor:  GAMMA = 0.99
+Soft update of target parameters:  TAU = 1e-3<br/>
+Learning Rate:  5e-4<br/>
+How often network is updated:  4<br/>
 
 ## Neural Network Archetecture
 
