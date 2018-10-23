@@ -2,9 +2,9 @@
 # Project Report
 
 
-## Learning Algorithim
+### Learning Algorithim
 
-## Parameters
+### Parameters
 
 Replay buffer size:  int(1e5)<br/>
 Minibatch size:  64<br/>
@@ -13,7 +13,7 @@ Soft update of target parameters:  TAU = 1e-3<br/>
 Learning Rate:  5e-4<br/>
 How often network is updated:  4<br/>
 
-## Neural Network Archetecture
+### Neural Network
 
 The Neural Network consists of three fully connected layers.<br/>  
 The first has an input size equal to the state size, output 64.<br/> 
@@ -22,7 +22,7 @@ The third input 64, output is the action_size<br/>
 
 Relu activation functions and adam optimizer are used.
 
-## Results
+### Results
 
 Episode 100	Average Score: 0.02<br/>
 Episode 200	Average Score: 0.652<br/>
@@ -48,10 +48,10 @@ Episode 2100	Average Score: 12.41<br/>
 Episode 2135	Average Score: 13.03<br/>
 Environment solved in 2035 episodes!	Average Score: 13.03<br/>
 
-## Plot of Rewards
+### Plot of Rewards
 ![Plot of Rewards](plot.png)
 
-## Future Work
+### Future Work
 
 Double Deep Q Network<br/>
 Prioritized Experience Replay<br/>
