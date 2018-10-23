@@ -8,7 +8,7 @@
 
 Replay buffer size:  int(1e5)<br/>
 Minibatch size:  64 <br/>      
-Discount Factor:  GAMMA = 0.99
+Discount Factor:  GAMMA = 0.99<br/>
 Soft update of target parameters:  TAU = 1e-3<br/>
 Learning Rate:  5e-4<br/>
 How often network is updated:  4<br/>
