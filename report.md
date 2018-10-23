@@ -49,3 +49,11 @@ Environment solved in 2035 episodes!	Average Score: 13.03<br/>
 
 ## Plot of Rewards
 ![Plot of Rewards](plot.png)
+
+## Future Work
+
+Double Deep Q Network<br/>
+Prioritized Experience Replay<br/>
+Dueling Deep Q Networks<br/>
+Tune hyperparameters<br/>
+Learning from pixels<br/>
