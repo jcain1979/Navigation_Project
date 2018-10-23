@@ -2,7 +2,7 @@
 # Project Report
 
 
-## Learning Algorithim Description
+## Learning Algorithim
 
 ## Hyperparamters
 
