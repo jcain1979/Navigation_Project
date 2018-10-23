@@ -13,3 +13,10 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 
 The task is episodic, and in order to solve the environment, the agent must get an average score of +13 over 100 consecutive episodes.
 
+### Requirements
+
+Python 3.6 must be installed.  The only files required are Navigation_Project.ipynb. 
+
+### Getting Started
+
+The ipython notebook Navigation_Project.ipynb is the only file required to run this project.  The cells must be run in order. 
