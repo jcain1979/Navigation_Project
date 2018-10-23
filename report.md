@@ -4,6 +4,10 @@
 
 ### Learning Algorithim
 
+The learning algorithim used is basic Deep Q Learning as described in this [paper](
+https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
+
+
 ### Parameters
 
 Replay buffer size:  int(1e5)<br/>
