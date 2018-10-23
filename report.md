@@ -10,7 +10,7 @@
 
 ## Results
 
-Episode 100	Average Score: 0.02 . 
+Episode 100	Average Score: 0.02<br/>
 Episode 200	Average Score: 0.652 . 
 Episode 300	Average Score: 1.32 . 
 Episode 400	Average Score: 2.14 . 
