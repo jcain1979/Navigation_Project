@@ -19,6 +19,7 @@ The Neural Network consists of three fully connected layers.<br/>
 The first has an input size equal to the state size, output 64.<br/> 
 The second input 64, output 64.<br/> 
 The third input 64, output is the action_size<br/> 
+
 Relu activation functions and adam optimizer are used.
 
 ## Results
